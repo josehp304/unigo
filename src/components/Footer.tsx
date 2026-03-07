@@ -25,8 +25,8 @@ export default function Footer() {
                             <span className="text-blue-400">Go</span>
                         </div>
                         <p className="text-gray-500 text-sm leading-relaxed mb-4">
+                            Aligning outstanding talent with visionary organizations.
                             A strategic partner in recruitment and human capital.
-                            Delivering intelligent recruitment and HR solutions worldwide.
                         </p>
                         <p className="text-gray-600 text-xs leading-relaxed mb-2">
                             📞 +91 7994885666
